@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Чу, пушки грянули...</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Рукопись</edition>
+        <respStmt>
+          <resp>Editor</resp>
+          <name>Вышки Студент</name>
+        </respStmt>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surfaceGrp>
+      <surface n="2 слой">
+        <graphic url="http://textograf.ru/api/Manuscripts/05c91846-6853-4a9e-8525-92494f6148fd/5ab5a610-13ee-4157-b103-a91908ae09d6.jpg" width="1196px" height="1920px" />
+        <zone>
+          <line>Чу  пушки  грянули !  крылатыхъ  кораблей </line>
+        </zone>
+        <zone>
+          <line>Покрылась  облакомъ  </line>
+        </zone>
+        <zone points="632.9451,170.1099 632.9451,278.2418 1141.956,259.7802 1134.044,149.011">
+          <line>
+            <del>крылат&lt;а&gt;я  станица</del>
+            <add place="above">
+              <del>станица боевая</del>
+            </add>
+          </line>
+          <line>Корабль  вбѣжалъ  въ_Неву - и_вотъ  среди  зыбей</line>
+          <line>Качаясь,  плаваетъ  кака<del>къ</del></line>
+        </zone>
+        <zone>
+          <line>          <del>лебедь  молодая</del></line>
+          <line>[Ликуетъ  русскій  флотъ - широк[ую]&gt;ая|  Нев[у]&gt;а|</line>
+        </zone>
+        <zone points="67.23077,611.8681 64.59341,709.4506 544.5934,683.0769 531.4066,577.5824">
+          <line>
+            <del>встревожи&lt;ло&gt;  бури</del>
+            <add place="above">
+              <del>вспу&lt;гнуло&gt; безъ</del>
+            </add>
+            <del> </del>
+            <add place="above">
+              <del>вспу&lt;гнуло&gt; безъ</del>
+            </add>       <del> </del>взволнова&lt;ло&gt;</line>
+          <line>безъ_вѣтра,  въ  ясный  день  глубоко  взвол&lt;новалась&gt;]</line>
+          <line>Широкая  волна  плеснула  въ_острова</line>
+        </zone>
+      </surface>
+    </surfaceGrp>
+  </sourceDoc>
+</TEI>
